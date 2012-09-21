@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="12" tilewidth="101" tileheight="41">
+ <tileset firstgid="1" source="orthogonal-test1.tsx"/>
+ <layer name="Tile Layer 2" width="15" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgxmIUIhHGgAAWV8BQQ==
+  </data>
+ </layer>
+ <layer name="top" width="15" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF9AAiFOBRQDwAAIfvAS0=
+  </data>
+ </layer>
+</map>
